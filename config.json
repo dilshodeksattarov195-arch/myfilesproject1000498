@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsrelete",
+        "uuid": 1886424,
+        "checksum": "8bb22p"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
